@@ -51,7 +51,7 @@ I'm especially interested in using AI to automate repetitive work, improve devel
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 TechGuru AI
+### 🤖 Coder AI
 Transforms natural-language ideas into working websites and applications.
 
 `AI-assisted dev` `SaaS` `Web generation` `Automation` `Full-stack`
