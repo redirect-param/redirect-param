@@ -51,6 +51,14 @@ I'm especially interested in using AI to automate repetitive work, improve devel
 <tr>
 <td width="50%" valign="top">
 
+### Termux-GUI
+A full desktop-class WebOS experience for Termux — Kali Linux XFCE4 themed
+
+`Python` `Webapp`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🤖 Coder AI
 Transforms natural-language ideas into working websites and applications.
 
